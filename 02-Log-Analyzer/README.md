@@ -1,3 +1,4 @@
+<img width="1917" height="1092" alt="PROJECT02" src="https://github.com/user-attachments/assets/1ac4b8cf-7792-4b9a-8950-8c959bf731ad" />
 # Python Log Analyzer
 
 A Python utility for analyzing infrastructure and application logs.
