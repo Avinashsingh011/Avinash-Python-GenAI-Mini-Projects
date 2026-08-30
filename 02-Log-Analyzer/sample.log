@@ -1,0 +1,10 @@
+2026-08-30 09:10:01 INFO Application started successfully
+2026-08-30 09:10:05 INFO Connection received from 192.168.1.10
+2026-08-30 09:11:10 WARNING CPU utilization reached 82%
+2026-08-30 09:12:22 ERROR Database connection failed from 192.168.1.20
+2026-08-30 09:13:18 INFO User login successful from 192.168.1.10
+2026-08-30 09:14:31 ERROR Authentication failed from 10.10.10.25
+2026-08-30 09:15:42 WARNING Disk utilization reached 88%
+2026-08-30 09:16:55 ERROR Database connection failed from 192.168.1.20
+2026-08-30 09:17:15 INFO Backup process started
+2026-08-30 09:18:40 ERROR API timeout from 10.10.10.50

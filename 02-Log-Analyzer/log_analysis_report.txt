@@ -1,0 +1,28 @@
+=================================================================
+AVINASH PYTHON LOG ANALYZER REPORT
+=================================================================
+Generated: 2026-08-30 09:51:14.161152
+
+Total Log Entries : 10
+Errors            : 4
+Warnings          : 2
+Info Messages     : 4
+
+TOP IP ADDRESSES
+------------------------------
+192.168.1.10: 2
+192.168.1.20: 2
+10.10.10.25: 1
+10.10.10.50: 1
+
+ERROR DETAILS
+------------------------------
+2026-08-30 09:12:22 ERROR Database connection failed from 192.168.1.20
+2026-08-30 09:14:31 ERROR Authentication failed from 10.10.10.25
+2026-08-30 09:16:55 ERROR Database connection failed from 192.168.1.20
+2026-08-30 09:18:40 ERROR API timeout from 10.10.10.50
+
+WARNING DETAILS
+------------------------------
+2026-08-30 09:11:10 WARNING CPU utilization reached 82%
+2026-08-30 09:15:42 WARNING Disk utilization reached 88%
